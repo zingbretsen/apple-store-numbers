@@ -1,0 +1,508 @@
+country,region,name,url,phone
+usstores,Alabama,"Birmingham, The Summit",https://www.apple.com/retail/thesummit/,(205) 909-2570
+usstores,Alabama,"Huntsville, Bridge Street",https://www.apple.com/retail/bridgestreet/,(256) 327-8800
+usstores,Alaska,"Anchorage, Anchorage 5th Avenue Mall",https://www.apple.com/retail/anchorage5thavenuemall/,(907) 257-1900
+usstores,Arizona,"Chandler, Chandler Fashion Center",https://www.apple.com/retail/chandlerfashioncenter/,(480) 636-3900
+usstores,Arizona,"Gilbert, SanTan Village",https://www.apple.com/retail/santanvillage/,(480) 366-8477
+usstores,Arizona,"Glendale, Arrowhead",https://www.apple.com/retail/arrowhead/,(623) 707-2860
+usstores,Arizona,"Scottsdale, Scottsdale Fashion Square",https://www.apple.com/retail/scottsdalefashionsquare/,(602) 606-1470
+usstores,Arizona,"Scottsdale, Scottsdale Quarter",https://www.apple.com/retail/scottsdalequarter/,(480) 627-5501
+usstores,Arizona,"Tucson, La Encantada",https://www.apple.com/retail/laencantada/,(520) 209-7440
+usstores,Arkansas,"Little Rock, The Promenade at Chenal",https://www.apple.com/retail/thepromenadeatchenal/,(501) 821-5130
+usstores,California,"Bakersfield, Valley Plaza",https://www.apple.com/retail/valleyplaza/,(661) 396-3480
+usstores,California,"Berkeley, 4th Street",https://www.apple.com/retail/4thstreet/,(510) 898-3341
+usstores,California,"Brea, Brea Mall",https://www.apple.com/retail/breamall/,(714) 989-5550
+usstores,California,"Burlingame, Burlingame",https://www.apple.com/retail/burlingame/,(650) 645-8930
+usstores,California,"Canoga Park, Topanga",https://www.apple.com/retail/topanga/,(818) 577-1800
+usstores,California,"Carlsbad, Carlsbad",https://www.apple.com/retail/carlsbad/,(760) 697-9800
+usstores,California,"Cerritos, Los Cerritos",https://www.apple.com/retail/loscerritos/,(562) 356-1555
+usstores,California,"Chula Vista, Otay Ranch",https://www.apple.com/retail/otayranch/,(619) 205-6400
+usstores,California,"Corte Madera, Corte Madera",https://www.apple.com/retail/cortemadera/,(415) 413-9120
+usstores,California,"Costa Mesa, South Coast Plaza",https://www.apple.com/retail/southcoastplaza/,(714) 424-6331
+usstores,California,"Cupertino, Apple Park Visitor Center",https://www.apple.com/retail/appleparkvisitorcenter/,
+usstores,California,"Cupertino, Infinite Loop",https://www.apple.com/retail/infiniteloop/,(408) 606-5775
+usstores,California,"Emeryville, Bay Street",https://www.apple.com/retail/baystreet/,(510) 350-2400
+usstores,California,"Escondido, North County",https://www.apple.com/retail/northcounty/,(760) 317-2484
+usstores,California,"Fresno, Fashion Fair",https://www.apple.com/retail/fashionfair/,(559) 244-3400
+usstores,California,"Glendale, Glendale Galleria",https://www.apple.com/retail/glendalegalleria/,(818) 502-8310
+usstores,California,"Glendale, The Americana at Brand",https://www.apple.com/retail/theamericanaatbrand/,(818) 254-1070
+usstores,California,"Irvine, Irvine Spectrum Center",https://www.apple.com/retail/irvinespectrumcenter/,(949) 255-1500
+usstores,California,"Los Angeles, Beverly Center",https://www.apple.com/retail/beverlycenter/,(424) 239-3880
+usstores,California,"Los Angeles, Century City",https://www.apple.com/retail/centurycity/,(424) 204-4290
+usstores,California,"Los Angeles, The Grove",https://www.apple.com/retail/thegrove/,(323) 617-9800
+usstores,California,"Los Gatos, Los Gatos",https://www.apple.com/retail/losgatos/,(408) 399-3880
+usstores,California,"Manhattan Beach, Manhattan Village",https://www.apple.com/retail/manhattanvillage/,(310) 421-3720
+usstores,California,"Mission Viejo, Mission Viejo",https://www.apple.com/retail/missionviejo/,(949) 325-6426
+usstores,California,"Modesto, Vintage Faire",https://www.apple.com/retail/vintagefaire/,(209) 342-1500
+usstores,California,"Monterey, Del Monte",https://www.apple.com/retail/delmonte/,(831) 647-4480
+usstores,California,"Newport Beach, Fashion Island",https://www.apple.com/retail/fashionisland/,(949) 629-9717
+usstores,California,"Northridge, Northridge",https://www.apple.com/retail/northridge/,(818) 477-9010
+usstores,California,"Palm Desert, El Paseo Village",https://www.apple.com/retail/elpaseovillage/,(760) 862-9710
+usstores,California,"Palo Alto, Palo Alto",https://www.apple.com/retail/paloalto/,(650) 798-2800
+usstores,California,"Palo Alto, Stanford",https://www.apple.com/retail/stanford/,(650) 798-6180
+usstores,California,"Pasadena, Pasadena",https://www.apple.com/retail/pasadena/,(626) 463-6223
+usstores,California,"Pleasanton, Stoneridge Mall",https://www.apple.com/retail/stoneridgemall/,(925) 398-1962
+usstores,California,"Rancho Cucamonga, Victoria Gardens",https://www.apple.com/retail/victoriagardens/,(909) 803-5220
+usstores,California,"Roseville, Roseville",https://www.apple.com/retail/roseville/,(916) 872-2506
+usstores,California,"Sacramento, Arden Fair",https://www.apple.com/retail/ardenfair/,(916) 830-5610
+usstores,California,"San Diego, Fashion Valley",https://www.apple.com/retail/fashionvalley/,(619) 682-3477
+usstores,California,"San Diego, UTC",https://www.apple.com/retail/utc/,(858) 795-6870
+usstores,California,"San Francisco, Chestnut Street",https://www.apple.com/retail/chestnutstreet/,(415) 848-4445
+usstores,California,"San Francisco, Stonestown",https://www.apple.com/retail/stonestown/,(415) 571-2780
+usstores,California,"San Francisco, Union Square",https://www.apple.com/retail/unionsquare/,(415) 486-4800
+usstores,California,"San Jose, Oakridge",https://www.apple.com/retail/oakridge/,(408) 960-0110
+usstores,California,"San Luis Obispo, Higuera Street",https://www.apple.com/retail/higuerastreet/,(805) 542-8800
+usstores,California,"San Mateo, Hillsdale",https://www.apple.com/retail/hillsdale/,(650) 645-4800
+usstores,California,"Santa Barbara, State Street",https://www.apple.com/retail/statestreet/,(805) 560-1500
+usstores,California,"Santa Clara, Valley Fair",https://www.apple.com/retail/valleyfair/,(408) 551-2150
+usstores,California,"Santa Monica, Third Street Promenade",https://www.apple.com/retail/thirdstreetpromenade/,(310) 633-2670
+usstores,California,"Santa Rosa, Santa Rosa Plaza",https://www.apple.com/retail/santarosaplaza/,(707) 508-3500
+usstores,California,"Sherman Oaks, Sherman Oaks",https://www.apple.com/retail/shermanoaks/,(818) 464-3080
+usstores,California,"Temecula, Promenade Temecula",https://www.apple.com/retail/promenadetemecula/,(951) 326-2400
+usstores,California,"Thousand Oaks, The Oaks",https://www.apple.com/retail/theoaks/,(805) 277-5040
+usstores,California,"Valencia, Valencia Town Center",https://www.apple.com/retail/valenciatowncenter/,(661) 678-1490
+usstores,California,"Walnut Creek, Broadway Plaza",https://www.apple.com/retail/broadwayplaza/,(925) 949-5463
+usstores,Colorado,"Boulder, Twenty Ninth Street",https://www.apple.com/retail/twentyninthstreet/,(720) 479-9451
+usstores,Colorado,"Broomfield, FlatIron Crossing",https://www.apple.com/retail/flatironcrossing/,(720) 479-0465
+usstores,Colorado,"Colorado Springs, The Promenade Shops at Briargate",https://www.apple.com/retail/thepromenadeshopsatbriargate/,(719) 522-4460
+usstores,Colorado,"Denver, Cherry Creek",https://www.apple.com/retail/cherrycreek/,(303) 583-7310
+usstores,Colorado,"Littleton, Aspen Grove",https://www.apple.com/retail/aspengrove/,(303) 256-2580
+usstores,Colorado,"Lone Tree, Park Meadows",https://www.apple.com/retail/parkmeadows/,(303) 256-1501
+usstores,Connecticut,"Danbury, Danbury Fair Mall",https://www.apple.com/retail/danburyfairmall/,(203) 546-6340
+usstores,Connecticut,"Farmington, Westfarms",https://www.apple.com/retail/westfarms/,(860) 221-0800
+usstores,Connecticut,"Greenwich, Greenwich Avenue",https://www.apple.com/retail/greenwichavenue/,(203) 302-6691
+usstores,Connecticut,"New Haven, New Haven",https://www.apple.com/retail/newhaven/,(203) 498-8950
+usstores,Connecticut,"South Windsor, Evergreen Walk",https://www.apple.com/retail/evergreenwalk/,(860) 512-2070
+usstores,Connecticut,"Stamford, Stamford",https://www.apple.com/retail/stamford/,(203) 658-1801
+usstores,Connecticut,"Trumbull, Trumbull",https://www.apple.com/retail/trumbull/,(203) 666-3928
+usstores,Delaware,"Newark, Christiana Mall",https://www.apple.com/retail/christianamall/,(302) 533-3514
+usstores,District of Columbia,"Washington, Carnegie Library",https://www.apple.com/retail/carnegielibrary/,
+usstores,District of Columbia,"Washington, Georgetown",https://www.apple.com/retail/georgetown/,(202) 572-1460
+usstores,Florida,"Altamonte Springs, Altamonte",https://www.apple.com/retail/altamonte/,(407) 551-0404
+usstores,Florida,"Aventura, Aventura",https://www.apple.com/retail/aventura/,(305) 914-9826
+usstores,Florida,"Boca Raton, Boca Raton",https://www.apple.com/retail/bocaraton/,(561) 226-0270
+usstores,Florida,"Brandon, Brandon",https://www.apple.com/retail/brandon/,(813) 413-3400
+usstores,Florida,"Estero, Coconut Point",https://www.apple.com/retail/coconutpoint/,(239) 949-8860
+usstores,Florida,"Fort Lauderdale, The Galleria",https://www.apple.com/retail/thegalleria/,(954) 331-4501
+usstores,Florida,"Jacksonville, St. Johns Town Center",https://www.apple.com/retail/stjohnstowncenter/,(904) 380-3080
+usstores,Florida,"Miami Beach, Lincoln Road",https://www.apple.com/retail/lincolnroad/,(305) 421-0400
+usstores,Florida,"Miami, Brickell City Centre",https://www.apple.com/retail/brickellcitycentre/,(786) 843-4350
+usstores,Florida,"Miami, Dadeland",https://www.apple.com/retail/dadeland/,(305) 341-9812
+usstores,Florida,"Miami, The Falls",https://www.apple.com/retail/thefalls/,(305) 234-4565
+usstores,Florida,"Naples, Waterside Shops",https://www.apple.com/retail/watersideshops/,(239) 254-4240
+usstores,Florida,"Orlando, Florida Mall",https://www.apple.com/retail/floridamall/,(407) 563-1020
+usstores,Florida,"Orlando, Millenia",https://www.apple.com/retail/millenia/,(407) 352-5551
+usstores,Florida,"Palm Beach Gardens, The Gardens Mall",https://www.apple.com/retail/thegardensmall/,(561) 273-2160
+usstores,Florida,"Sarasota, University Town Center",https://www.apple.com/retail/universitytowncenter/,(941) 358-4600
+usstores,Florida,"Tampa, International Plaza",https://www.apple.com/retail/internationalplaza/,(813) 393-4720
+usstores,Florida,"Wellington, Wellington Green",https://www.apple.com/retail/wellingtongreen/,(561) 273-2940
+usstores,Georgia,"Alpharetta, Avalon",https://www.apple.com/retail/avalon/,(770) 510-1670
+usstores,Georgia,"Atlanta, Cumberland Mall",https://www.apple.com/retail/cumberlandmall/,(678) 402-0725
+usstores,Georgia,"Atlanta, Lenox Square",https://www.apple.com/retail/lenoxsquare/,(404) 926-3085
+usstores,Georgia,"Atlanta, Perimeter",https://www.apple.com/retail/perimeter/,(678) 459-9800
+usstores,Georgia,"Augusta, Augusta",https://www.apple.com/retail/augusta/,(706) 731-1800
+usstores,Georgia,"Buford, Mall of Georgia",https://www.apple.com/retail/mallofgeorgia/,(678) 288-3400
+usstores,Hawaii,"Honolulu, Ala Moana",https://www.apple.com/retail/alamoana/,(808) 983-7650
+usstores,Hawaii,"Honolulu, Kahala",https://www.apple.com/retail/kahala/,(808) 738-4400
+usstores,Hawaii,"Honolulu, Royal Hawaiian",https://www.apple.com/retail/royalhawaiian/,(808) 931-2480
+usstores,Idaho,"Boise, Boise Towne Square",https://www.apple.com/retail/boisetownesquare/,(208) 377-6500
+usstores,Illinois,"Chicago, Lincoln Park",https://www.apple.com/retail/lincolnpark/,(312) 777-4200
+usstores,Illinois,"Chicago, Michigan Avenue",https://www.apple.com/retail/michiganavenue/,
+usstores,Illinois,"Deer Park, Deer Park",https://www.apple.com/retail/deerpark/,(847) 847-0400
+usstores,Illinois,"Naperville, Main Place",https://www.apple.com/retail/mainplace/,(630) 536-5400
+usstores,Illinois,"Northbrook, Northbrook",https://www.apple.com/retail/northbrook/,(847) 205-2020
+usstores,Illinois,"Oak Brook, Oakbrook",https://www.apple.com/retail/oakbrook/,(630) 481-3470
+usstores,Illinois,"Orland Park, Orland Square Mall",https://www.apple.com/retail/orlandsquaremall/,(708) 645-5401
+usstores,Illinois,"Schaumburg, Woodfield",https://www.apple.com/retail/woodfield/,(630) 237-2160
+usstores,Illinois,"Skokie, Old Orchard",https://www.apple.com/retail/oldorchard/,(847) 983-9230
+usstores,Indiana,"Indianapolis, The Fashion Mall at Keystone",https://www.apple.com/retail/thefashionmallatkeystone/,(317) 814-3740
+usstores,Indiana,"Mishawaka, University Park Mall",https://www.apple.com/retail/universityparkmall/,(574) 277-9500
+usstores,Iowa,"West Des Moines, Jordan Creek",https://www.apple.com/retail/jordancreek/,(515) 440-9900
+usstores,Kansas,"Leawood, Leawood",https://www.apple.com/retail/leawood/,(913) 234-9800
+usstores,Kentucky,"Lexington, Fayette Mall",https://www.apple.com/retail/fayettemall/,(859) 971-5400
+usstores,Kentucky,"Louisville, Oxmoor",https://www.apple.com/retail/oxmoor/,(502) 326-2840
+usstores,Louisiana,"Baton Rouge, Mall of Louisiana",https://www.apple.com/retail/malloflouisiana/,(225) 765-3500
+usstores,Louisiana,"Metairie, Lakeside Shopping Center",https://www.apple.com/retail/lakesideshoppingcenter/,(504) 830-1400
+usstores,Maine,"South Portland, Maine Mall",https://www.apple.com/retail/mainemall/,(207) 771-9400
+usstores,Maryland,"Annapolis, Annapolis",https://www.apple.com/retail/annapolis/,
+usstores,Maryland,"Bethesda, Bethesda Row",https://www.apple.com/retail/bethesdarow/,(301) 634-0880
+usstores,Maryland,"Bethesda, Montgomery Mall",https://www.apple.com/retail/montgomerymall/,(301) 634-9930
+usstores,Maryland,"Columbia, Columbia",https://www.apple.com/retail/columbia/,(410) 423-1801
+usstores,Maryland,"Towson, Towson Town Center",https://www.apple.com/retail/towsontowncenter/,(410) 427-0360
+usstores,Massachusetts,"Boston, Boylston Street",https://www.apple.com/retail/boylstonstreet/,(617) 385-9400
+usstores,Massachusetts,"Braintree, South Shore",https://www.apple.com/retail/southshore/,(781) 817-1270
+usstores,Massachusetts,"Burlington, Burlington",https://www.apple.com/retail/burlington/,(781) 653-0970
+usstores,Massachusetts,"Cambridge, CambridgeSide",https://www.apple.com/retail/cambridgeside/,(617) 528-7970
+usstores,Massachusetts,"Chestnut Hill, Chestnut Hill",https://www.apple.com/retail/chestnuthill/,(617) 454-9940
+usstores,Massachusetts,"Dedham, Legacy Place",https://www.apple.com/retail/legacyplace/,(781) 471-3800
+usstores,Massachusetts,"Hingham, Derby Street",https://www.apple.com/retail/derbystreet/,(781) 556-0400
+usstores,Massachusetts,"Holyoke, Holyoke",https://www.apple.com/retail/holyoke/,(413) 493-3878
+usstores,Massachusetts,"Lynnfield, MarketStreet",https://www.apple.com/retail/marketstreet/,(978) 326-0970
+usstores,Massachusetts,"Marlborough, Solomon Pond Mall",https://www.apple.com/retail/solomonpondmall/,(978) 838-5000
+usstores,Massachusetts,"Natick, Natick",https://www.apple.com/retail/natick/,(508) 903-2800
+usstores,Michigan,"Ann Arbor, Briarwood",https://www.apple.com/retail/briarwood/,(734) 780-2471
+usstores,Michigan,"Clinton Township, Partridge Creek",https://www.apple.com/retail/partridgecreek/,(586) 840-0500
+usstores,Michigan,"Grand Rapids, Woodland",https://www.apple.com/retail/woodland/,(616) 956-1420
+usstores,Michigan,"Lansing, Eastwood Towne Center",https://www.apple.com/retail/eastwoodtownecenter/,(517) 374-4920
+usstores,Michigan,"Novi, Twelve Oaks",https://www.apple.com/retail/twelveoaks/,(248) 675-0320
+usstores,Michigan,"Troy, Somerset",https://www.apple.com/retail/somerset/,(248) 822-0081
+usstores,Minnesota,"Bloomington, Mall of America",https://www.apple.com/retail/mallofamerica/,(952) 229-5630
+usstores,Minnesota,"Edina, Southdale",https://www.apple.com/retail/southdale/,(952) 656-0140
+usstores,Minnesota,"Minneapolis, Uptown",https://www.apple.com/retail/uptown/,(952) 229-1460
+usstores,Minnesota,"Minnetonka, Ridgedale",https://www.apple.com/retail/ridgedale/,(952) 486-4861
+usstores,Minnesota,"Roseville, Rosedale Center",https://www.apple.com/retail/rosedalecenter/,(763) 656-5010
+usstores,Mississippi,"Ridgeland, Renaissance at Colony Park",https://www.apple.com/retail/renaissanceatcolonypark/,(601) 607-4521
+usstores,Missouri,"Kansas City, Country Club Plaza",https://www.apple.com/retail/countryclubplaza/,(816) 448-9200
+usstores,Missouri,"St. Louis, Saint Louis Galleria",https://www.apple.com/retail/saintlouisgalleria/,(314) 290-0400
+usstores,Missouri,"St. Louis, West County",https://www.apple.com/retail/westcounty/,(314) 288-1830
+usstores,Nebraska,"Omaha, Village Pointe",https://www.apple.com/retail/villagepointe/,(402) 970-4477
+usstores,Nevada,"Las Vegas, Fashion Show",https://www.apple.com/retail/fashionshow/,(702) 577-9740
+usstores,Nevada,"Las Vegas, Summerlin",https://www.apple.com/retail/summerlin/,(702) 677-3940
+usstores,Nevada,"Las Vegas, The Forum Shops",https://www.apple.com/retail/theforumshops/,(702) 684-8800
+usstores,Nevada,"Las Vegas, Town Square",https://www.apple.com/retail/townsquare/,(702) 221-8826
+usstores,Nevada,"Reno, Summit Sierra",https://www.apple.com/retail/summitsierra/,(775) 333-5460
+usstores,New Hampshire,"Manchester, The Mall of New Hampshire",https://www.apple.com/retail/themallofnewhampshire/,(603) 391-0180
+usstores,New Hampshire,"Nashua, Pheasant Lane",https://www.apple.com/retail/pheasantlane/,(603) 521-3400
+usstores,New Hampshire,"Salem, Rockingham Park",https://www.apple.com/retail/rockinghampark/,(603) 328-3140
+usstores,New Jersey,"Bridgewater, Bridgewater",https://www.apple.com/retail/bridgewater/,(908) 547-3800
+usstores,New Jersey,"Cherry Hill, Cherry Hill",https://www.apple.com/retail/cherryhill/,(856) 792-9480
+usstores,New Jersey,"Edison, Menlo Park",https://www.apple.com/retail/menlopark/,(732) 623-7700
+usstores,New Jersey,"Freehold, Freehold Raceway Mall",https://www.apple.com/retail/freeholdracewaymall/,(732) 358-8426
+usstores,New Jersey,"Lawrence Township, Quaker Bridge",https://www.apple.com/retail/quakerbridge/,(609) 606-9030
+usstores,New Jersey,"Marlton, Sagemore",https://www.apple.com/retail/sagemore/,(856) 355-4940
+usstores,New Jersey,"Paramus, Garden State Plaza",https://www.apple.com/retail/gardenstateplaza/,(201) 975-9500
+usstores,New Jersey,"Rockaway, Rockaway",https://www.apple.com/retail/rockaway/,(973) 384-9220
+usstores,New Jersey,"Short Hills, Short Hills",https://www.apple.com/retail/shorthills/,(973) 564-5813
+usstores,New Jersey,"Wayne, Willowbrook",https://www.apple.com/retail/willowbrook/,(973) 339-2800
+usstores,New Jersey,"Woodcliff Lake, Tice’s Corner",https://www.apple.com/retail/ticescorner/,(201) 474-4180
+usstores,New Mexico,"Albuquerque, ABQ Uptown",https://www.apple.com/retail/abquptown/,(505) 837-6480
+usstores,New York,"Albany, Crossgates",https://www.apple.com/retail/crossgates/,(518) 389-0140
+usstores,New York,"Brooklyn, Downtown Brooklyn",https://www.apple.com/retail/downtownbrooklyn/,(718) 637-6200
+usstores,New York,"Brooklyn, Williamsburg",https://www.apple.com/retail/williamsburg/,(929) 397-2740
+usstores,New York,"Buffalo, Walden Galleria",https://www.apple.com/retail/waldengalleria/,(716) 706-2000
+usstores,New York,"Elmhurst, Queens Center",https://www.apple.com/retail/queenscenter/,(718) 489-1540
+usstores,New York,"Garden City, Roosevelt Field",https://www.apple.com/retail/rooseveltfield/,(516) 739-8540
+usstores,New York,"Huntington Station, Walt Whitman",https://www.apple.com/retail/waltwhitman/,(631) 760-0160
+usstores,New York,"Lake Grove, Smith Haven",https://www.apple.com/retail/smithhaven/,(631) 982-2500
+usstores,New York,"Manhasset, Manhasset",https://www.apple.com/retail/manhasset/,(516) 734-2420
+usstores,New York,"Nanuet, Nanuet",https://www.apple.com/retail/nanuet/,(845) 215-6980
+usstores,New York,"New York, Fifth Avenue",https://www.apple.com/retail/fifthavenue/,(212) 336-1440
+usstores,New York,"New York, Grand Central",https://www.apple.com/retail/grandcentral/,(212) 284-1800
+usstores,New York,"New York, SoHo",https://www.apple.com/retail/soho/,(212) 226-3126
+usstores,New York,"New York, Upper East Side",https://www.apple.com/retail/uppereastside/,(646) 343-2700
+usstores,New York,"New York, Upper West Side",https://www.apple.com/retail/upperwestside/,(212) 209-3400
+usstores,New York,"New York, West 14th Street",https://www.apple.com/retail/west14thstreet/,(212) 444-3400
+usstores,New York,"New York, World Trade Center",https://www.apple.com/retail/worldtradecenter/,(646) 802-3800
+usstores,New York,"Staten Island, Staten Island",https://www.apple.com/retail/statenisland/,(718) 568-2230
+usstores,New York,"Syracuse, Syracuse",https://www.apple.com/retail/syracuse/,(315) 233-5920
+usstores,New York,"Victor, Eastview",https://www.apple.com/retail/eastview/,(585) 421-6070
+usstores,New York,"White Plains, The Westchester",https://www.apple.com/retail/thewestchester/,(914) 539-4530
+usstores,New York,"Yonkers, Ridge Hill",https://www.apple.com/retail/ridgehill/,(914) 620-0965
+usstores,North Carolina,"Charlotte, Northlake Mall",https://www.apple.com/retail/northlakemall/,(704) 972-0980
+usstores,North Carolina,"Charlotte, SouthPark",https://www.apple.com/retail/southpark/,(704) 972-3280
+usstores,North Carolina,"Durham, Southpoint",https://www.apple.com/retail/southpoint/,(919) 474-6940
+usstores,North Carolina,"Greensboro, Friendly Center",https://www.apple.com/retail/friendlycenter/,(336) 291-0486
+usstores,North Carolina,"Raleigh, Crabtree Valley Mall",https://www.apple.com/retail/crabtreevalleymall/,(919) 334-3400
+usstores,Ohio,"Akron, Summit Mall",https://www.apple.com/retail/summitmall/,(330) 865-6280
+usstores,Ohio,"Beavercreek, The Greene",https://www.apple.com/retail/thegreene/,(937) 431-4200
+usstores,Ohio,"Cincinnati, Kenwood Towne Centre",https://www.apple.com/retail/kenwoodtownecentre/,(513) 826-3620
+usstores,Ohio,"Columbus, Easton Town Center",https://www.apple.com/retail/eastontowncenter/,(614) 934-2810
+usstores,Ohio,"Columbus, Polaris Fashion Place",https://www.apple.com/retail/polarisfashionplace/,(614) 987-1430
+usstores,Ohio,"Toledo, Franklin Park Mall",https://www.apple.com/retail/franklinparkmall/,(419) 473-4250
+usstores,Ohio,"Westlake, Crocker Park",https://www.apple.com/retail/crockerpark/,(440) 788-2800
+usstores,Ohio,"Woodmere, Eton",https://www.apple.com/retail/eton/,(216) 535-4560
+usstores,Oklahoma,"Oklahoma City, Penn Square",https://www.apple.com/retail/pennsquare/,(405) 767-6600
+usstores,Oklahoma,"Tulsa, Woodland Hills",https://www.apple.com/retail/woodlandhills/,(918) 249-7800
+usstores,Oregon,"Portland, Pioneer Place",https://www.apple.com/retail/pioneerplace/,(503) 265-2010
+usstores,Oregon,"Tigard, Bridgeport Village",https://www.apple.com/retail/bridgeportvillage/,
+usstores,Oregon,"Tigard, Washington Square",https://www.apple.com/retail/washingtonsquare/,(503) 495-2080
+usstores,Pennsylvania,"Ardmore, Suburban Square",https://www.apple.com/retail/suburbansquare/,(610) 726-9400
+usstores,Pennsylvania,"King of Prussia, King of Prussia",https://www.apple.com/retail/kingofprussia/,(484) 636-5090
+usstores,Pennsylvania,"Lancaster, Park City",https://www.apple.com/retail/parkcity/,(717) 295-8800
+usstores,Pennsylvania,"Philadelphia, Walnut Street",https://www.apple.com/retail/walnutstreet/,(215) 861-6400
+usstores,Pennsylvania,"Pittsburgh, Ross Park",https://www.apple.com/retail/rosspark/,(412) 318-0656
+usstores,Pennsylvania,"Pittsburgh, Shadyside",https://www.apple.com/retail/shadyside/,(412) 316-2460
+usstores,Pennsylvania,"Pittsburgh, South Hills Village",https://www.apple.com/retail/southhillsvillage/,(412) 308-1970
+usstores,Pennsylvania,"Whitehall, Lehigh Valley",https://www.apple.com/retail/lehighvalley/,(610) 266-4860
+usstores,Pennsylvania,"Willow Grove, Willow Grove Park",https://www.apple.com/retail/willowgrovepark/,(215) 346-8160
+usstores,Rhode Island,"Providence, Providence Place",https://www.apple.com/retail/providenceplace/,(401) 533-9400
+usstores,South Carolina,"Charleston, King Street",https://www.apple.com/retail/kingstreet/,(843) 727-0400
+usstores,South Carolina,"Greenville, Haywood Mall",https://www.apple.com/retail/haywoodmall/,(864) 987-7580
+usstores,Tennessee,"Franklin, CoolSprings Galleria",https://www.apple.com/retail/coolspringsgalleria/,(615) 435-0620
+usstores,Tennessee,"Germantown, Saddle Creek",https://www.apple.com/retail/saddlecreek/,(901) 751-6980
+usstores,Tennessee,"Knoxville, West Town Mall",https://www.apple.com/retail/westtownmall/,(865) 824-2507
+usstores,Tennessee,"Nashville, Green Hills",https://www.apple.com/retail/greenhills/,(615) 514-2430
+usstores,Texas,"Austin, Barton Creek",https://www.apple.com/retail/bartoncreek/,(512) 634-0520
+usstores,Texas,"Austin, Domain NORTHSIDE",https://www.apple.com/retail/domainnorthside/,(512) 691-4800
+usstores,Texas,"Dallas, Galleria Dallas",https://www.apple.com/retail/galleriadallas/,(972) 942-7210
+usstores,Texas,"Dallas, Knox Street",https://www.apple.com/retail/knoxstreet/,(214) 520-8532
+usstores,Texas,"Dallas, NorthPark Center",https://www.apple.com/retail/northparkcenter/,(214) 765-0820
+usstores,Texas,"El Paso, Cielo Vista Mall",https://www.apple.com/retail/cielovistamall/,(915) 774-8020
+usstores,Texas,"Fort Worth, University Park Village",https://www.apple.com/retail/universityparkvillage/,(817) 840-9801
+usstores,Texas,"Friendswood, Baybrook",https://www.apple.com/retail/baybrook/,(281) 204-0500
+usstores,Texas,"Houston, Highland Village",https://www.apple.com/retail/highlandvillage/,(832) 325-3500
+usstores,Texas,"Houston, Houston Galleria",https://www.apple.com/retail/houstongalleria/,(713) 353-5471
+usstores,Texas,"Houston, Memorial City",https://www.apple.com/retail/memorialcity/,(713) 986-2476
+usstores,Texas,"Houston, Willowbrook Mall",https://www.apple.com/retail/willowbrookmall/,(281) 571-4400
+usstores,Texas,"San Antonio, La Cantera",https://www.apple.com/retail/lacantera/,(210) 276-2302
+usstores,Texas,"San Antonio, North Star",https://www.apple.com/retail/northstar/,(210) 321-4420
+usstores,Texas,"Southlake, Southlake Town Square",https://www.apple.com/retail/southlaketownsquare/,(817) 722-1401
+usstores,Texas,"Sugar Land, First Colony Mall",https://www.apple.com/retail/firstcolonymall/,(281) 269-3410
+usstores,Texas,"The Woodlands, The Woodlands",https://www.apple.com/retail/thewoodlands/,(281) 203-6870
+usstores,Utah,"Farmington, Station Park",https://www.apple.com/retail/stationpark/,(801) 218-9501
+usstores,Utah,"Murray, Fashion Place",https://www.apple.com/retail/fashionplace/,(801) 905-4410
+usstores,Utah,"Salt Lake City, City Creek Center",https://www.apple.com/retail/citycreekcenter/,(801) 456-9400
+usstores,Virginia,"Arlington, Clarendon",https://www.apple.com/retail/clarendon/,(703) 236-7970
+usstores,Virginia,"Arlington, Pentagon City",https://www.apple.com/retail/pentagoncity/,(703) 236-1550
+usstores,Virginia,"Fairfax, Fair Oaks",https://www.apple.com/retail/fairoaks/,(703) 251-7400
+usstores,Virginia,"McLean, Tysons Corner",https://www.apple.com/retail/tysonscorner/,(703) 336-8450
+usstores,Virginia,"Norfolk, MacArthur Center",https://www.apple.com/retail/macarthurcenter/,(757) 628-8400
+usstores,Virginia,"Reston, Reston",https://www.apple.com/retail/reston/,(571) 449-4800
+usstores,Virginia,"Richmond, Short Pump Town Center",https://www.apple.com/retail/shortpumptowncenter/,(804) 420-3000
+usstores,Virginia,"Virginia Beach, Lynnhaven Mall",https://www.apple.com/retail/lynnhavenmall/,(757) 306-2480
+usstores,Virginia,"Woodbridge, Potomac Town Center",https://www.apple.com/retail/potomactowncenter/,(703) 986-2030
+usstores,Washington,"Bellevue, Bellevue Square",https://www.apple.com/retail/bellevuesquare/,(425) 519-0080
+usstores,Washington,"Lynnwood, Alderwood",https://www.apple.com/retail/alderwood/,(425) 921-1560
+usstores,Washington,"Seattle, University Village",https://www.apple.com/retail/universityvillage/,(206) 892-0433
+usstores,Washington,"Spokane, River Park Square",https://www.apple.com/retail/riverparksquare/,(509) 458-8080
+usstores,Washington,"Tacoma, Tacoma Mall",https://www.apple.com/retail/tacomamall/,(253) 620-1454
+usstores,Washington,"Tukwila, Southcenter",https://www.apple.com/retail/southcenter/,(206) 288-4400
+usstores,Wisconsin,"Glendale, Bayshore",https://www.apple.com/retail/bayshore/,(414) 977-3410
+usstores,Wisconsin,"Madison, Hilldale",https://www.apple.com/retail/hilldale/,(608) 827-9840
+usstores,Wisconsin,"Wauwatosa, Mayfair",https://www.apple.com/retail/mayfair/,(414) 290-9780
+austores,Australian Capital Territory,Canberra,https://www.apple.com/au/retail/canberra/,(02) 6224 9500
+austores,New South Wales,Bondi,https://www.apple.com/au/retail/bondi/,(02) 9019 2400
+austores,New South Wales,Broadway,https://www.apple.com/au/retail/broadway/,(02) 8035 4000
+austores,New South Wales,Castle Towers,https://www.apple.com/au/retail/castletowers/,(02) 8864 0800
+austores,New South Wales,Charlestown,https://www.apple.com/au/retail/charlestown/,(02) 4032 5800
+austores,New South Wales,Chatswood Chase,https://www.apple.com/au/retail/chatswoodchase/,(02) 8064 6300
+austores,New South Wales,Hornsby,https://www.apple.com/au/retail/hornsby/,(02) 8401 8800
+austores,New South Wales,Miranda,https://www.apple.com/au/retail/miranda/,(02) 8578 1700
+austores,New South Wales,Penrith,https://www.apple.com/au/retail/penrith/,(02) 4702 9400
+austores,New South Wales,Sydney,https://www.apple.com/au/retail/sydney/,(02) 8083 9400
+austores,Queensland,Brisbane,https://www.apple.com/au/retail/brisbane/,(07) 3182 9000
+austores,Queensland,Carindale,https://www.apple.com/au/retail/carindale/,(07) 3199 2200
+austores,Queensland,Chermside,https://www.apple.com/au/retail/chermside/,(07) 3115 0800
+austores,Queensland,Robina,https://www.apple.com/au/retail/robina/,(07) 5667 0400
+austores,South Australia,Rundle Place,https://www.apple.com/au/retail/rundleplace/,(08) 7088 5300
+austores,Victoria,Chadstone,https://www.apple.com/au/retail/chadstone/,(03) 9038 7500
+austores,Victoria,Southland,https://www.apple.com/au/retail/southland/,(03) 8523 1400
+austores,Victoria,Doncaster,https://www.apple.com/au/retail/doncaster/,(03) 9914 2800
+austores,Victoria,Fountain Gate,https://www.apple.com/au/retail/fountaingate/,(03) 8765 4000
+austores,Victoria,Highpoint,https://www.apple.com/au/retail/highpoint/,(03) 9975 9700
+austores,Western Australia,Garden City Perth,https://www.apple.com/au/retail/gardencityperth/,(08) 6557 6000
+austores,Western Australia,Perth City,https://www.apple.com/au/retail/perthcity/,(08) 6140 3800
+atstores,,Kärntner Straße,https://www.apple.com/at/retail/kaerntnerstrasse/,01 206092544
+ukstores,,Union Square,https://www.apple.com/uk/retail/unionsquare/,01224 287 900
+ukstores,,Festival Place,https://www.apple.com/uk/retail/festivalplace/,0125669 6000
+ukstores,,SouthGate,https://www.apple.com/uk/retail/southgate/,01225487 000
+ukstores,,Victoria Square,https://www.apple.com/uk/retail/victoriasquare/,0289016 1900
+ukstores,,Birmingham,https://www.apple.com/uk/retail/birmingham/,0121 224 2100
+ukstores,,Churchill Square,https://www.apple.com/uk/retail/churchillsquare/,0127374 0500
+ukstores,,Cabot Circus,https://www.apple.com/uk/retail/cabotcircus/,0117900 3450
+ukstores,,Cribbs Causeway,https://www.apple.com/uk/retail/cribbscauseway/,0117959 7600
+ukstores,,Bromley,https://www.apple.com/uk/retail/bromley/,0208225 5500
+ukstores,,Grand Arcade,https://www.apple.com/uk/retail/grandarcade/,0122325 3600
+ukstores,,St David’s 2,https://www.apple.com/uk/retail/stdavids2/,0292055 6800
+ukstores,,Princes Street,https://www.apple.com/uk/retail/princesstreet/,0131 242 8200
+ukstores,,Princesshay,https://www.apple.com/uk/retail/princesshay/,01392 316600
+ukstores,,Metrocentre,https://www.apple.com/uk/retail/metrocentre/,0191 402 2500
+ukstores,,Braehead,https://www.apple.com/uk/retail/braehead/,0141885 4200
+ukstores,,Buchanan Street,https://www.apple.com/uk/retail/buchananstreet/,0141 300 4700
+ukstores,,Lakeside,https://www.apple.com/uk/retail/lakeside/,0170871 7500
+ukstores,,Bluewater,https://www.apple.com/uk/retail/bluewater/,01322 640 100
+ukstores,,Bentall Centre,https://www.apple.com/uk/retail/bentallcentre/,020 8233 3400
+ukstores,,Trinity Leeds,https://www.apple.com/uk/retail/trinityleeds/,0113 251 1000
+ukstores,,Highcross,https://www.apple.com/uk/retail/highcross/,0116201 1900
+ukstores,,Liverpool,https://www.apple.com/uk/retail/liverpool/,0151 472 7200
+ukstores,,Brent Cross,https://www.apple.com/uk/retail/brentcross/,020 3126 9200
+ukstores,,Covent Garden,https://www.apple.com/uk/retail/coventgarden/,0207447 1400
+ukstores,,Regent Street,https://www.apple.com/uk/retail/regentstreet/,020 7153 9000
+ukstores,,Stratford City,https://www.apple.com/uk/retail/stratfordcity/,0208277 2200
+ukstores,,White City,https://www.apple.com/uk/retail/whitecity/,0208433 4600
+ukstores,,Manchester Arndale,https://www.apple.com/uk/retail/manchesterarndale/,0161 455 1900
+ukstores,,Trafford Centre,https://www.apple.com/uk/retail/traffordcentre/,0161240 1000
+ukstores,,Milton Keynes,https://www.apple.com/uk/retail/miltonkeynes/,019 0885 6650
+ukstores,,Eldon Square,https://www.apple.com/uk/retail/eldonsquare/,0191 270 6100
+ukstores,,Chapelfield,https://www.apple.com/uk/retail/chapelfield/,0160321 6600
+ukstores,,Drake Circus,https://www.apple.com/uk/retail/drakecircus/,017 5263 3000
+ukstores,,The Oracle,https://www.apple.com/uk/retail/theoracle/,0118925 4500
+ukstores,,Meadowhall,https://www.apple.com/uk/retail/meadowhall/,0114 212 1000
+ukstores,,Touchwood Centre,https://www.apple.com/uk/retail/touchwoodcentre/,0121 224 1300
+ukstores,,Southampton,https://www.apple.com/uk/retail/southampton/,023 8030 3100
+ukstores,,Watford,https://www.apple.com/uk/retail/watford/,0192342 1700
+jpstores,,Ginza,https://www.apple.com/jp/retail/ginza/,03-5159-8200
+jpstores,,Fukuoka Tenjin,https://www.apple.com/jp/retail/fukuokatenjin/,092-736-6800
+jpstores,,Kyoto,https://www.apple.com/jp/retail/kyoto/,075-757-8700
+jpstores,,Nagoya Sakae,https://www.apple.com/jp/retail/nagoyasakae/,052-238-2400
+jpstores,,Shinsaibashi,https://www.apple.com/jp/retail/shinsaibashi/,06-4963-4500
+jpstores,,Omotesando,https://www.apple.com/jp/retail/omotesando/,03-6757-4400
+jpstores,,Shibuya,https://www.apple.com/jp/retail/shibuya/,03-6670-1800
+jpstores,,Shinjuku,https://www.apple.com/jp/retail/shinjuku/,03-5656-1800
+castores,Alberta,Chinook Centre,https://www.apple.com/ca/retail/chinookcentre/,(403) 444-3759
+castores,Alberta,Market Mall,https://www.apple.com/ca/retail/marketmall/,(403) 648-4865
+castores,Alberta,Southgate Centre,https://www.apple.com/ca/retail/southgatecentre/,(780) 801-3820
+castores,Alberta,West Edmonton,https://www.apple.com/ca/retail/westedmonton/,(780) 701-0540
+castores,British Columbia,Metrotown,https://www.apple.com/ca/retail/metrotown/,(778) 373-4810
+castores,British Columbia,Coquitlam Centre,https://www.apple.com/ca/retail/coquitlamcentre/,(604) 945-1160
+castores,British Columbia,Richmond Centre,https://www.apple.com/ca/retail/richmondcentre/,(604) 248-3940
+castores,British Columbia,Guildford Town Centre,https://www.apple.com/ca/retail/guildfordtowncentre/,(604) 634-3240
+castores,British Columbia,Oakridge Centre,https://www.apple.com/ca/retail/oakridgecentre/,(778) 373-4500
+castores,British Columbia,Pacific Centre,https://www.apple.com/ca/retail/pacificcentre/,(778) 373-1800
+castores,Manitoba,Polo Park,https://www.apple.com/ca/retail/polopark/,(204) 777-4500
+castores,Nova Scotia,Halifax Shopping Centre,https://www.apple.com/ca/retail/halifaxshoppingcentre/,(902) 442-3495
+castores,Ontario,Mapleview Centre,https://www.apple.com/ca/retail/mapleviewcentre/,(289) 288-2012
+castores,Ontario,Masonville,https://www.apple.com/ca/retail/masonville/,(519) 963-4060
+castores,Ontario,Markville Shopping Centre,https://www.apple.com/ca/retail/markvilleshoppingcentre/,(905) 513-2860
+castores,Ontario,Square One,https://www.apple.com/ca/retail/squareone/,(905) 366-0580
+castores,Ontario,Upper Canada Mall,https://www.apple.com/ca/retail/uppercanadamall/,(905) 952-3400
+castores,Ontario,Bayshore Shopping Centre,https://www.apple.com/ca/retail/bayshoreshoppingcentre/,(613) 288-7950
+castores,Ontario,Rideau,https://www.apple.com/ca/retail/rideau/,(613) 688-5575
+castores,Ontario,Eaton Centre,https://www.apple.com/ca/retail/eatoncentre/,(647) 258-0801
+castores,Ontario,Fairview,https://www.apple.com/ca/retail/fairview/,(416) 646-4412
+castores,Ontario,Sherway Gardens,https://www.apple.com/ca/retail/sherwaygardens/,(416) 646-8489
+castores,Ontario,Yorkdale,https://www.apple.com/ca/retail/yorkdale/,(416) 785-1776
+castores,Ontario,Conestoga,https://www.apple.com/ca/retail/conestoga/,(519) 772-5150
+castores,Quebec,DIX30,https://www.apple.com/ca/retail/dix30/,(450) 618-1400
+castores,Quebec,Carrefour Laval,https://www.apple.com/ca/retail/carrefourlaval/,(450) 902-4400
+castores,Quebec,Sainte-Catherine,https://www.apple.com/ca/retail/saintecatherine/,(514) 906-8400
+castores,Quebec,Fairview Pointe-Claire,https://www.apple.com/ca/retail/fairviewpointeclaire/,(514) 630-8800
+castores,Quebec,Place Ste-Foy,https://www.apple.com/ca/retail/placestefoy/,(418) 266-8600
+itstores,,Via Rizzoli,https://www.apple.com/it/retail/viarizzoli/,051 6400  100
+itstores,,I Gigli,https://www.apple.com/it/retail/igigli/,055880 3000
+itstores,,Carosello,https://www.apple.com/it/retail/carosello/,029250 7200
+itstores,,Firenze,https://www.apple.com/it/retail/firenze/,0554641900
+itstores,,Le Gru,https://www.apple.com/it/retail/legru/,011770 511 00
+itstores,,il Leone,https://www.apple.com/it/retail/illeone/,030 915 6701
+itstores,,Campania,https://www.apple.com/it/retail/campania/,082 369 8 7 100
+itstores,,Nave de Vero,https://www.apple.com/it/retail/navedevero/,041 884 2700
+itstores,,Piazza Liberty,https://www.apple.com/it/retail/piazzaliberty/,02 3030 2400
+itstores,,Centro Sicilia,https://www.apple.com/it/retail/centrosicilia/,095 718 1801
+itstores,,Oriocenter,https://www.apple.com/it/retail/oriocenter/,035 421  400
+itstores,,Le Befane,https://www.apple.com/it/retail/lebefane/,0541 181 3200
+itstores,,Porta di Roma,https://www.apple.com/it/retail/portadiroma/,06 8720 8501
+itstores,,Euroma2,https://www.apple.com/it/retail/euroma2/,06 4523 0700
+itstores,,RomaEst,https://www.apple.com/it/retail/romaest/,06 224 5300
+itstores,,Fiordaliso,https://www.apple.com/it/retail/fiordaliso/,025779 7600
+itstores,,Via Roma,https://www.apple.com/it/retail/viaroma/,011 506  6201
+cnstores,Beijing,Chaoyang Joy City,https://www.apple.com/cn/retail/chaoyangjoycity/,4006171284
+cnstores,Beijing,China Central Mall,https://www.apple.com/cn/retail/chinacentralmall/,4006171210
+cnstores,Beijing,Sanlitun,https://www.apple.com/cn/retail/sanlitun/,4006171363
+cnstores,Beijing,Wangfujing,https://www.apple.com/cn/retail/wangfujing/,4006171205
+cnstores,Beijing,Xidan Joy City,https://www.apple.com/cn/retail/xidanjoycity/,4006171204
+cnstores,Chongqing,Jiefangbei,https://www.apple.com/cn/retail/jiefangbei/,4006171224
+cnstores,Chongqing,MixC Chongqing,https://www.apple.com/cn/retail/mixcchongqing/,4006171215
+cnstores,Chongqing,Paradise Walk Chongqing,https://www.apple.com/cn/retail/paradisewalkchongqing/,4006171240
+cnstores,Fujian,Thaihot Plaza,https://www.apple.com/cn/retail/thaihotplaza/,4006171354
+cnstores,Fujian,Xiamen Lifestyle Center,https://www.apple.com/cn/retail/xiamenlifestylecenter/,4006171383
+cnstores,Guangdong,Parc Central,https://www.apple.com/cn/retail/parccentral/,4006139742
+cnstores,Guangdong,Zhujiang New Town,https://www.apple.com/cn/retail/zhujiangnewtown/,4006393601
+cnstores,Guangdong,Holiday Plaza Shenzhen,https://www.apple.com/cn/retail/holidayplazashenzhen/,4006171254
+cnstores,Guangxi,MixC Nanning,https://www.apple.com/cn/retail/mixcnanning/,4006171265
+cnstores,Henan,MixC Zhengzhou,https://www.apple.com/cn/retail/mixczhengzhou/,4006171264
+cnstores,Jiangsu,Nanjing IST,https://www.apple.com/cn/retail/nanjingist/,4006171334
+cnstores,Jiangsu,Nanjing Jinmao Place,https://www.apple.com/cn/retail/nanjingjinmaoplace/,4006139772
+cnstores,Jiangsu,Wonder City,https://www.apple.com/cn/retail/wondercity/,4006171332
+cnstores,Jiangsu,Suzhou,https://www.apple.com/cn/retail/suzhou/,4006139775
+cnstores,Jiangsu,Center 66 Wuxi,https://www.apple.com/cn/retail/center66wuxi/,4006171325
+cnstores,Liaoning,Olympia 66 Dalian,https://www.apple.com/cn/retail/olympia66dalian/,4006139741
+cnstores,Liaoning,Parkland,https://www.apple.com/cn/retail/parkland/,4000560921
+cnstores,Liaoning,MixC Shenyang,https://www.apple.com/cn/retail/mixcshenyang/,4006171274
+cnstores,Liaoning,Zhongjie Joy City,https://www.apple.com/cn/retail/zhongjiejoycity/,4006171252
+cnstores,Shandong,Parc 66 Jinan,https://www.apple.com/cn/retail/parc66jinan/,4006139743
+cnstores,Shandong,MixC Qingdao,https://www.apple.com/cn/retail/mixcqingdao/,4006171285
+cnstores,Shanghai,Global Harbor,https://www.apple.com/cn/retail/globalharbor/,4006171335
+cnstores,Shanghai,Hong Kong Plaza,https://www.apple.com/cn/retail/hongkongplaza/,4006171312
+cnstores,Shanghai,Nanjing East,https://www.apple.com/cn/retail/nanjingeast/,4006639988
+cnstores,Shanghai,Pudong,https://www.apple.com/cn/retail/pudong/,4006171305
+cnstores,Shanghai,Qibao,https://www.apple.com/cn/retail/qibao/,4006139773
+cnstores,Shanghai,Shanghai iapm,https://www.apple.com/cn/retail/shanghaiiapm/,4006171324
+cnstores,Shanghai,Wujiaochang,https://www.apple.com/cn/retail/wujiaochang/,4006139771
+cnstores,Sichuan,MixC Chengdu,https://www.apple.com/cn/retail/mixcchengdu/,4006171214
+cnstores,Sichuan,Taikoo Li Chengdu,https://www.apple.com/cn/retail/taikoolichengdu/,4006171275
+cnstores,Tianjin,MixC Tianjin,https://www.apple.com/cn/retail/mixctianjin/,4006139745
+cnstores,Tianjin,Riverside 66 Tianjin,https://www.apple.com/cn/retail/riverside66tianjin/,4006139744
+cnstores,Tianjin,Tianjin Joy City,https://www.apple.com/cn/retail/tianjinjoycity/,4006171262
+cnstores,Yunnan,Kunming,https://www.apple.com/cn/retail/kunming/,4006393602
+cnstores,Zhejiang,MixC Hangzhou,https://www.apple.com/cn/retail/mixchangzhou/,4006171304
+cnstores,Zhejiang,West Lake,https://www.apple.com/cn/retail/westlake/,4006171302
+cnstores,Zhejiang,Tianyi Square,https://www.apple.com/cn/retail/tianyisquare/,4006139774
+chstores,,Freie Strasse,https://www.apple.com/chfr/retail/freiestrasse/,061 206 01 00
+chstores,,Rue de Rive,https://www.apple.com/chfr/retail/ruederive/,022 318 03 00
+chstores,,Glattzentrum,https://www.apple.com/chfr/retail/glattzentrum/,044 832 81 00
+chstores,,Bahnhofstrasse,https://www.apple.com/chfr/retail/bahnhofstrasse/,044 213 18 00
+destores,,City-Galerie,https://www.apple.com/de/retail/city-galerie/,08219076 490 00
+destores,,Kurfürstendamm,https://www.apple.com/de/retail/kurfuerstendamm/,030 590 090 000
+destores,,Rhein Center,https://www.apple.com/de/retail/rheincenter/,0223 42020  600
+destores,,Schildergasse,https://www.apple.com/de/retail/schildergasse/,0221 6501 3700
+destores,,Altmarkt-Galerie,https://www.apple.com/de/retail/altmarkt-galerie/,0351 49774  000
+destores,,Düsseldorf,https://www.apple.com/de/retail/duesseldorf/,0211 4247 0600
+destores,,Grosse Bockenheimer Strasse,https://www.apple.com/de/retail/grossebockenheimerstrasse/,069219 308 000
+destores,,Alstertal,https://www.apple.com/de/retail/alstertal/,040611 831 5000
+destores,,Jungfernstieg,https://www.apple.com/de/retail/jungfernstieg/,040 349 62  8000
+destores,,Hannover,https://www.apple.com/de/retail/hannover/,0511 9362 0700
+destores,,OEZ,https://www.apple.com/de/retail/oez/,089 204 002 800
+destores,,Rosenstrasse,https://www.apple.com/de/retail/rosenstrasse/,089 242 145  000
+destores,,CentrO,https://www.apple.com/de/retail/centro/,0208 3058  8000
+destores,,Sindelfingen,https://www.apple.com/de/retail/sindelfingen/,07031 410 4600
+destores,,MTZ,https://www.apple.com/de/retail/mtz/,069 389 8 6 5800
+frstores,,Aix-en-Provence,https://www.apple.com/fr/retail/aix-en-provence/,04 88 80 78 00
+frstores,,Sainte-Catherine,https://www.apple.com/fr/retail/sainte-catherine/,05 56 69 58 00
+frstores,,La Toison d’Or,https://www.apple.com/fr/retail/latoisondor/,03 80 40 45 00
+frstores,,Parly 2,https://www.apple.com/fr/retail/parly2/,01 39 66 26 00
+frstores,,Carré Sénart,https://www.apple.com/fr/retail/carresenart/,01 60 18 26 00
+frstores,,Lille,https://www.apple.com/fr/retail/lille/,03 59 81 89 00
+frstores,,Confluence,https://www.apple.com/fr/retail/confluence/,04 37 23 15 00
+frstores,,Part-Dieu,https://www.apple.com/fr/retail/part-dieu/,04 72 13 25 00
+frstores,,Val d’Europe,https://www.apple.com/fr/retail/valdeurope/,01 64 17 35 00
+frstores,,Marseille,https://www.apple.com/fr/retail/marseille/,04 20 10 54 00
+frstores,,Odysseum,https://www.apple.com/fr/retail/odysseum/,04 67 13 99 00
+frstores,,CAP 3000,https://www.apple.com/fr/retail/cap3000/,04 92 12 51 50
+frstores,,Champs-Élysées,https://www.apple.com/fr/retail/champs-elysees/,01 70 98 09 00
+frstores,,Marché Saint-Germain,https://www.apple.com/fr/retail/marchesaintgermain/,01 85 65 48 00
+frstores,,Opéra,https://www.apple.com/fr/retail/opera/,01 44 83 42 00
+frstores,,Les Quatre Temps,https://www.apple.com/fr/retail/lesquatretemps/,01 41 97 36 00
+frstores,,Rosny 2,https://www.apple.com/fr/retail/rosny2/,01 73 30 89 00
+frstores,,Atlantis,https://www.apple.com/fr/retail/atlantis/,02 40 85 57 00
+frstores,,Strasbourg,https://www.apple.com/fr/retail/strasbourg/,03 88 10 13 00
+frstores,,Vélizy 2,https://www.apple.com/fr/retail/velizy2/,01 30 70 77 00
+nlstores,,Amsterdam,https://www.apple.com/nl/retail/amsterdam/,020 530 2200
+nlstores,,Den Haag,https://www.apple.com/nl/retail/denhaag/,070 701 0300
+nlstores,,Haarlem,https://www.apple.com/nl/retail/haarlem/,023 799 3800
+esstores,,Río Shopping,https://www.apple.com/es/retail/rioshopping/,983 36 89 00
+esstores,,Xanadú,https://www.apple.com/es/retail/xanadu/,914 81 76 00
+esstores,,La Maquinista,https://www.apple.com/es/retail/lamaquinista/,934 66 90 00
+esstores,,Passeig de Gràcia,https://www.apple.com/es/retail/passeigdegracia/,932 95 05 00
+esstores,,Nueva Condomina,https://www.apple.com/es/retail/nuevacondomina/,968 38 78 00
+esstores,,Parquesur,https://www.apple.com/es/retail/parquesur/,916 44 51 00
+esstores,,Puerta del Sol,https://www.apple.com/es/retail/puertadelsol/,917 69 91 00
+esstores,,Gran Plaza 2,https://www.apple.com/es/retail/granplaza2/,916 34 97 00
+esstores,,La Cañada,https://www.apple.com/es/retail/lacanada/,952 76 08 00
+esstores,,Calle Colón,https://www.apple.com/es/retail/callecolon/,963 50 63 00
+esstores,,Puerto Venecia,https://www.apple.com/es/retail/puertovenecia/,976 18 89 00
+hkstores,,Causeway Bay,https://www.apple.com/hk/en/retail/causewaybay/,39793100
+hkstores,,ifc mall,https://www.apple.com/hk/en/retail/ifcmall/,39721500
+hkstores,,Festival Walk,https://www.apple.com/hk/en/retail/festivalwalk/,39793600
+hkstores,,apm Hong Kong,https://www.apple.com/hk/en/retail/apmhongkong/,35728900
+hkstores,,New Town Plaza,https://www.apple.com/hk/en/retail/newtownplaza/,38997800
+hkstores,,Canton Road,https://www.apple.com/hk/en/retail/cantonroad/,39798800
+sestores,,Väla Centrum,https://www.apple.com/se/retail/valacentrum/,042-17 02 00
+sestores,,Emporia,https://www.apple.com/se/retail/emporia/,040-37 10 00
+sestores,,Täby Centrum,https://www.apple.com/se/retail/tabycentrum/,08-446 93 00
+brstores,,VillageMall,https://www.apple.com/br/retail/villagemall/,(21) 3179-3700
+brstores,,Morumbi,https://www.apple.com/br/retail/morumbi/,(11) 5180-5900
+trstores,,Zorlu Center,https://www.apple.com/tr/retail/zorlucenter/,(0212) 708 3700
+trstores,,Akasya,https://www.apple.com/tr/retail/akasya/,(0216) 250 7100
+bestores,,Brussels,https://www.apple.com/befr/retail/brussels/,0800 81 685
+aestores,,Yas Mall,https://www.apple.com/ae/retail/yasmall/,800 04441824
+aestores,,Dubai Mall,https://www.apple.com/ae/retail/dubaimall/,800 04449012
+aestores,,Mall of the Emirates,https://www.apple.com/ae/retail/malloftheemirates/,800 04441819
+mostores,,Cotai Central,https://www.apple.com/mo-en/retail/cotaicentral/,87917000
+mostores,,Galaxy Macau,https://www.apple.com/mo-en/retail/galaxymacau/,87919000
+mxstores,,Vía Santa Fe,https://www.apple.com/mx/retail/viasantafe/,01 55 1037 6400
+sgstores,,Jewel Changi Airport,https://www.apple.com/sg/retail/jewelchangiairport/,1800 407 4948
+sgstores,,Orchard Road,https://www.apple.com/sg/retail/orchardroad/,1800 699 2824
+twstores,,Taipei 101,https://www.apple.com/tw/retail/taipei101/,02 8726 3500
+twstores,,Xinyi A13,https://www.apple.com/tw/retail/xinyia13/,02 7742 7700
+thstores,,Iconsiam,https://www.apple.com/th-en/retail/iconsiam/,02 055 9600
+krstores,,Garosugil,https://www.apple.com/kr/retail/garosugil/,02-2086-4600
